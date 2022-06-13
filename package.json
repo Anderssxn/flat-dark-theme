@@ -9,8 +9,25 @@
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/Anderssxn/flat-dark-theme/"
     },
+    "keywords": [
+        "flat",
+        "dark",
+        "theme",
+        "dark-theme",
+        "flat-dark-theme",
+        "dark-flat-theme",
+        "dark-flat",
+        "modern",
+        "modern-theme",
+        "modern-dark-theme",
+        "modern-dark",
+        "modern-dark-flat",
+        "modern-dark-flat-theme",
+        "dark-mode",
+        "dark mode"
+    ],
     "engines": {
         "vscode": "^1.68.0"
     },
