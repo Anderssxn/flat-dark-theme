@@ -1,0 +1,29 @@
+{
+    "name": "flat-dark-theme",
+    "displayName": "Flat Dark Theme",
+    "description": "Flat dark mode. Your eyes will thank you later <3",
+    "author": {
+        "name": "Andersson Hadad"
+    },
+    "publisher": "Andersson Hadad",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Flat Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Flat Dark-color-theme.json"
+            }
+        ]
+    }
+}
